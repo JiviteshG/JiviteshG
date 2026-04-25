@@ -26,3 +26,8 @@ I bridge the gap between quantitative data science and autonomous AI systems. Cu
 * **LinkedIn:** [in/jiviteshg](https://www.linkedin.com/in/jiviteshg/)
 * **Hugging Face:** [JGudekar](https://huggingface.co/JGudekar)
 * **Location:** Fredericton, NB, Canada 🇨🇦
+
+---
+### 📊 GitHub Activity
+![Jivitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JiviteshG&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiviteshG&layout=compact&theme=radical)
