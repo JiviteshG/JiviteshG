@@ -19,7 +19,7 @@ I bridge the gap between quantitative data science and autonomous AI systems. Cu
 | **Software/DevOps** | FastAPI, Docker, CI/CD, Git, Cloud Infrastructure |
 
 ## 📈 Featured Projects
-* [MeetingAnalysisAgent](https://github.com/JiviteshG/MeetingAnalysisAgent) - A multi-agent system for autonomous meeting intelligence.
+* [Meeting-Analysis-Agent](https://github.com/JiviteshG/meeting-analysis-agent) - A multi-agent system for autonomous meeting intelligence.
 * [Multi-Doc RAG](https://github.com/JiviteshG/multidoc-rag-agent_langchain) In Progress - Chat with multiple PDFs using advanced retrieval techniques.
 
 ## 📬 Connect with Me
