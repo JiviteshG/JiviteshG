@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Jivitesh Gudekar 👋
 
-<!--
-**JiviteshG/JiviteshG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Data Scientist | AI Automation & Multi-Agent Systems Engineer
+I bridge the gap between quantitative data science and autonomous AI systems. Currently focused on building production-grade **Agentic Workflows** that automate complex enterprise tasks.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 What I'm Building Now
+* **Autonomous Meeting Intelligence:** Leveraging CrewAI and Exa AI to transform raw meetings into structured insights.
+* **Multi-Doc RAG Systems:** Engineering advanced retrieval pipelines for complex PDF analysis using LangChain.
+* **AI Automation:** Developing custom agents for task decomposition and multi-agent orchestration.
+
+## 🛠 Tech Stack
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Agentic AI** | CrewAI, LangGraph, Microsoft Copilot Studio, AutoGen |
+| **LLM Frameworks** | LangChain, LlamaIndex, OpenAI API, Hugging Face |
+| **Data Science** | Python, SQL, Pandas, Scikit-learn, PyTorch |
+| **Software/DevOps** | FastAPI, Docker, CI/CD, Git, Cloud Infrastructure |
+
+## 📈 Featured Projects
+* [MeetingAnalysisAgent](https://github.com/JiviteshG/MeetingAnalysisAgent) - A multi-agent system for autonomous meeting intelligence.
+* [Multi-Doc RAG](https://github.com/JiviteshG/multidoc-rag-agent_langchain) In Progress - Chat with multiple PDFs using advanced retrieval techniques.
+
+## 📬 Connect with Me
+* **LinkedIn:** [in/jiviteshg](https://www.linkedin.com/in/jiviteshg/)
+* **Hugging Face:** [JGudekar](https://huggingface.co/JGudekar)
+* **Location:** Fredericton, NB, Canada 🇨🇦
