@@ -14,13 +14,13 @@ I bridge the gap between quantitative data science and autonomous AI systems. Cu
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Agentic AI** | CrewAI, LangGraph, Microsoft Copilot Studio, AutoGen |
-| **LLM Frameworks** | LangChain, LlamaIndex, OpenAI API, Hugging Face |
+| **LLM Frameworks** | LangChain, LangGraph, LlamaIndex, OpenAI API, Hugging Face |
 | **Data Science** | Python, SQL, Pandas, Scikit-learn, PyTorch |
 | **Software/DevOps** | FastAPI, Docker, CI/CD, Git, Cloud Infrastructure |
 
 ## 📈 Featured Projects
 * [Meeting-Analysis-Agent](https://github.com/JiviteshG/meeting-analysis-agent) - A multi-agent system for autonomous meeting intelligence.
-* [Multi-Doc RAG](https://github.com/JiviteshG/multidoc-rag-agent_langchain) In Progress - Chat with multiple PDFs using advanced retrieval techniques.
+* [Multi-Doc RAG](https://github.com/JiviteshG/multidoc-rag-agent_langchain) - Chat with multiple PDFs using advanced retrieval techniques.
 
 ## 📬 Connect with Me
 * **LinkedIn:** [in/jiviteshg](https://www.linkedin.com/in/jiviteshg/)
