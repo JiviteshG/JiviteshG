@@ -19,7 +19,7 @@ I bridge the gap between quantitative data science and autonomous AI systems. Cu
 | **LLM Frameworks** | LangChain, LangSmith, LlamaIndex, OpenAI API, Hugging Face |
 | **Data Science** | Python, SQL, Pandas, Scikit-learn, PyTorch |
 | **Software/DevOps** | FastAPI, Docker, CI/CD, Weaviate Cloud, ChromaDB |
-| **Evaluation Frameworks** | Ragas, DeepEval |
+| **Evaluation Frameworks** | Ragas, DeepEval, Gaurdrails |
 
 ## 📈 Featured Projects
 * [Flight-Scan-MCP-Agent](https://github.com/JiviteshG/flight-scan-mcp-agent.git) - A flight agent for booking your next flight.
