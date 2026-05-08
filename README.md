@@ -6,7 +6,7 @@ I bridge the gap between quantitative data science and autonomous AI systems. Cu
 ---
 
 ## 🤖 What I'm Building Now
-* **Flight Scan MCP Agent:** An autonomous travel intelligence system using the Model Context Protocol (MCP) and Firecrawl to scrape, analyze, and rank flight data by flight value.
+* **Flight Scan MCP Agent:** An autonomous travel intelligence system using the Model Context Protocol (MCP) and FireCrawl to scrape, analyze, and rank flight data by flight value.
 * **Agentic RAG Researcher** - A RAG agent to automate literature reviews using Weaviate vector database and OpenAI models.
 * **Autonomous Meeting Intelligence:** Leveraging CrewAI and Exa AI to transform raw meetings into structured insights.
 * **Multi-Doc RAG Systems:** Engineering advanced retrieval pipelines for complex PDF analysis using LangChain.
