@@ -1,6 +1,6 @@
 # Hi, I'm Jivitesh Gudekar 👋
 
-### Senior AI Engineer | LangChain · RAG · Agentic Systems
+### Data Scientist/AI Engineer | LangChain · RAG · Agentic Systems
 I bridge the gap between quantitative data science and autonomous AI systems. Currently focused on building production-grade **Agentic Workflows** and **RAG pipelines** that automate complex enterprise tasks — with observability, evaluation, and CI/CD built in.
 
 ---
