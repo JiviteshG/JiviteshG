@@ -28,7 +28,7 @@ I bridge the gap between quantitative data science and autonomous AI systems. Cu
 * [Multi-Doc RAG Agent](https://github.com/JiviteshG/multidoc-rag-agent_langchain) — Advanced RAG with FlashRank reranking, streaming, structured Pydantic output, FastAPI `/query` endpoint, Ragas/DeepEval evals, and full CI/CD pipeline.
 * [Agentic RAG Researcher](https://github.com/JiviteshG/agentic-rag-researcher) — Literature review automation over arxiv papers using Weaviate and semantic chunking. Deployed to AWS EC2.
 * [Meeting Analysis Agent](https://github.com/JiviteshG/meeting-analysis-agent) — Four-agent CrewAI pipeline (Research → Industry Analysis → Strategy → Briefing) using Exa AI search tools.
-* [Job Scan MCP Agent](https://github.com/JiviteshG/job-scan-mcp-agent) — TypeScript MCP agent that scores and ranks job listings daily against your resume and preferences.
+* **Job Scan MCP Agent** *(in progress)* — TypeScript MCP agent that scores and ranks job listings daily against your resume and preferences.
 * [Flight Scan MCP Agent](https://github.com/JiviteshG/flight-scan-mcp-agent) — MCP-based flight intelligence agent with custom value scoring.
 
 ## 📬 Connect with Me
