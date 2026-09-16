@@ -6,6 +6,7 @@ I bridge the gap between quantitative data science and autonomous AI systems. Cu
 ---
 
 ## 🤖 What I'm Building Now
+* **Sherlock Holmes LangGraph Agent** — Tool-calling ReAct agent demonstrating checkpointer persistence (thread-scoped memory), `before_agent` middleware, and human-in-the-loop tool approval — pytest suite + CI.
 * **Multi-Doc RAG Agent** — Production RAG pipeline with two-stage retrieval (vector search + cross-encoder reranking), token-by-token streaming, structured output, FastAPI endpoint, and GitHub Actions CI/CD with Docker deployment to GHCR.
 * **Agentic RAG Researcher** — Automates ML literature reviews using Weaviate vector database, semantic chunking, and OpenAI models. Deployed on AWS EC2.
 * **Autonomous Meeting Intelligence** — Multi-agent CrewAI system: Research → Industry Analysis → Strategy → Briefing, powered by Exa AI search.
@@ -25,6 +26,7 @@ I bridge the gap between quantitative data science and autonomous AI systems. Cu
 | **Other** | TypeScript, Firecrawl, Exa AI |
 
 ## 📈 Featured Projects
+* [Sherlock Holmes LangGraph Agent](https://github.com/JiviteshG/langgraph-projects) — Checkpointer persistence, `before_agent` middleware, and human-in-the-loop gating on a tool-calling ReAct agent. Tested (pytest) with CI.
 * [Multi-Doc RAG Agent](https://github.com/JiviteshG/multidoc-rag-agent_langchain) — Advanced RAG with FlashRank reranking, streaming, structured Pydantic output, FastAPI `/query` endpoint, Ragas/DeepEval evals, and full CI/CD pipeline.
 * [Agentic RAG Researcher](https://github.com/JiviteshG/agentic-rag-researcher) — Literature review automation over arxiv papers using Weaviate and semantic chunking. Deployed to AWS EC2.
 * [Meeting Analysis Agent](https://github.com/JiviteshG/meeting-analysis-agent) — Four-agent CrewAI pipeline (Research → Industry Analysis → Strategy → Briefing) using Exa AI search tools.
