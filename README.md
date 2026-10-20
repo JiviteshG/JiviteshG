@@ -1,6 +1,9 @@
 # Hi, I'm Jivitesh Gudekar 👋
 
-### Data Scientist/AI Engineer | LangChain · RAG · Agentic Systems
+### AI Agent Engineer | LangChain Certified | LangGraph · RAG · LangSmith · MCP
+
+🏅 **LangChain Certified Agent Engineer (LCAE)** — Oct 2026
+
 I bridge the gap between quantitative data science and autonomous AI systems. Currently focused on building production-grade **Agentic Workflows** and **RAG pipelines** that automate complex enterprise tasks — with observability, evaluation, and CI/CD built in.
 
 ---
@@ -13,6 +16,11 @@ I bridge the gap between quantitative data science and autonomous AI systems. Cu
 * **Autonomous Meeting Intelligence** — Multi-agent CrewAI system: Research → Industry Analysis → Strategy → Briefing, powered by Exa AI search.
 * **Job Scan MCP Agent** — TypeScript orchestration pipeline that scrapes LinkedIn/Indeed/Glassdoor via Firecrawl, scores listings against resume and preferences, and outputs a daily top-10 ranked report.
 * **Flight Scan MCP Agent** — MCP-based travel intelligence agent that scrapes, scores, and ranks flights by value using a custom analyst scoring model.
+
+## 🏅 Certifications
+* **LangChain Certified Agent Engineer (LCAE)** — LangChain, Oct 2026 · building, testing, deploying, and monitoring LangGraph agents with LangSmith
+* **Hugging Face Agents Course** — Hugging Face
+* **Microsoft Agents in a Day** — Microsoft
 
 ## 🛠 Tech Stack
 | Category | Tools & Technologies |
