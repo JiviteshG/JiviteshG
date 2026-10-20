@@ -46,4 +46,4 @@ I bridge the gap between quantitative data science and autonomous AI systems. Cu
 ## 📬 Connect with Me
 * **LinkedIn:** [in/jiviteshg](https://www.linkedin.com/in/jiviteshg/)
 * **Hugging Face:** [JGudekar](https://huggingface.co/JGudekar)
-* **Location:** Fredericton, NB, Canada 🇨🇦
+* **Location:** Alberta, Canada 🇨🇦
